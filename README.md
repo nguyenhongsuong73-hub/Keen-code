@@ -29,6 +29,7 @@ Chân thành cảm ơn bạn đã quan tâm và đồng hành cùng **Keen Code*
 
 ---
 <a id="english"></a>
+
 ## 🇺🇸 English
 **Keen Code** is a project focused on building a centralized command management system. Instead of writing scattered and inconsistent code, we aim to standardize every operation into a single architecture, making system management, execution, and expansion much cleaner and more efficient.
 
